@@ -3,6 +3,7 @@
 }
 
 .u-section-1 .u-image-1 {
+  display: block;
   width: 1060px;
   height: 380px;
   margin: 40px auto 0;
